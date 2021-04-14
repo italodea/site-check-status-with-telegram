@@ -1,0 +1,5 @@
+<?php
+    $url = ['','']; // array de urls a monitorar
+    $botId = ''; //token do bot seu do telegram
+    $chatId = ''; //id do usuário que receberá os alertas.
+?>
